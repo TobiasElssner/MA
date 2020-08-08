@@ -1,0 +1,85 @@
+POS, Question Type, English Lemma, Vocabulary Size = 500, Vocabulary Size = 1000, Vocabulary Size = 2000
+Noun , Gender , male , man , , boy
+Noun , Gender , male , men , ,  boys
+Noun , Gender , female , woman , , girl
+Noun , Gender , female , women , , girls
+Noun , Singular/Plural , day , day , ,
+Noun , Singular/Plural , day , days , ,
+Noun , Singular/Plural , year , year , ,
+Noun , Singular/Plural , year , years , ,
+Noun , Singular/Plural , country , country , ,
+Noun , Singular/Plural , country , countries , ,
+Noun , Derivation , player , , player ,
+Noun , Derivation , player , , players ,
+Noun , Derivation , driver , , driver , drivers
+Noun , Derivation , development , , development ,
+Noun , Derivation , movement , , , movement
+Proper Noun  , Entailment , America , America , ,
+Proper Noun , Entailment , Washington , Washington , ,
+Proper Noun , Entailment , Russia , Russia , ,
+Proper Noun , Entailment , Moscow , , , Moscow
+Proper Noun , Entailment , Europe , Europe , ,
+Proper Noun , Entailment , England , , , England
+Proper Noun , Entailment , London , , London ,
+Proper Noun , Entailment , France , , France ,
+Proper Noun , Entailment , Paris , , Paris ,
+Verb , Conjugation , (to) take , take , takes ,
+Verb , Conjugation , (to) take , taking , ,
+Verb , Conjugation , (to) take , took , ,
+Verb , Conjugation , (to) take , taken , ,
+Verb , Conjugation , (to) go , go , goes , gone
+Verb , Conjugation , (to) go , going , ,
+Verb , Conjugation , (to) go , went , ,
+Verb , Conjugation , (to) have , have , , haven
+Verb , Conjugation , (to) have , having , , hasn
+Verb , Conjugation , (to) have , has , ,
+Verb , Conjugation , (to) have , had , ,
+Verb , Conjugation , (to) do , do , ,
+Verb , Conjugation , (to) do , does , ,
+Verb , Conjugation , (to) do , doesn , ,
+Verb , Conjugation , (to) do , don , ,
+Verb , Conjugation , (to) do , doing , ,
+Verb , Conjugation , (to) do , did , ,
+Verb , Conjugation , (to) do , didn , ,
+Verb , Conjugation , (to) do , done , ,
+Verb , Conjugation , (to) play , play , played , plays
+Verb , Conjugation , (to) play ,      ,  playing ,
+Verb , Conjugation , (to) show , show ,  showed , shown
+Verb , Conjugation , (to) show ,  , shows , showing
+Verb , Conjugation , (to) make , make , makes ,
+Verb , Conjugation , (to) make , making , ,
+Verb , Conjugation , (to) make , made , ,
+Verb , Derivation , (to) drive , , drive ,
+Verb , Derivation , (to) move , move , moved ,
+Verb , Derivation , (to) think , think , thought , thinking
+Verb , Derivation , (to) feel , feel , felt , feeling
+Verb , Derivation , (to) help , help , helped , helping
+Verb , Derivation , (to) develop , , , develop
+Verb , Derivation , (to) develop  ,  , , developed
+Verb , Derivation , (to) develop ,  , , developing
+Verb , Derivation , (to) increase , , increase , increasing
+Verb , Derivation , (to) increase , , , increased
+Verb , Derivation , (to) report , report , ,
+Verb , Derivation , (to) report , reported , ,
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , large , , large , larger
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , large , , largest , largely
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , high , high , higher , highly
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , high , , , highest
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , small , small , , smaller
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , low , , low ,
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , low , , lower ,
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , good , good , ,
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , good , better , ,
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , good , best , ,
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , good , well , ,
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , bad , , bad , worse
+Adjectives/Adverbs , Distinction/Comparative/Antonymy , bad , , , worst
+Adjectives/Adverbs , Derivation , American , American , ,
+Adjectives/Adverbs , Derivation , Russian , , Russian ,
+Adjectives/Adverbs , Derivation , European , European , ,
+Adjectives/Adverbs , Derivation , reported , reported , , reportedly
+Adjectives/Adverbs , Derivation , increasing , , , increasing
+Adjectives/Adverbs , Derivation , increasing , , , increasingly
+Noun/Adjective , OOV , national , national , ,
+Noun/Adjective , OOV , emergency , ,  emergency ,
+Noun/Adjective , OOV , infrastructure , , , infrastructure

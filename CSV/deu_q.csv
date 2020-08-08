@@ -1,0 +1,31 @@
+Question Type, Vocabulary Size 500, Vocabulary Size 1000, Vocabulary Size 2000
+Gender , , , Mann:Frau::Junge:Mädchen
+Gender , , , Jungen:Mädchen::Männer:Frauen
+Declination , Tag:Tage::Jahr:Jahre , Länder:Ländern::Tage:Tagen , Smartphone:Smartphones::Tag:Tage
+Declination , Tag:Tagen::Jahr:Jahren , Länder:Ländern::Jahre:Jahren , Smartphone:Smartphones::Jahr:Jahre
+Declination , , Mann:Männer::Junge:Jungen , Tag:Tages::Jahr:Jahres
+Declination , , Mann:Männer::Frau:Frauen , Europa:Europas::Russland:Russlands
+Declination , , , Frau:Frauen::Mädchen:Mädchen
+Derivation ,  , spielen:Spieler::fahren:Fahrer , helfen:Hilfe::denken:Gedanken
+Derivation , , Russland:russische::Europa:europäische , öffnen:offen::erhalten:erhältlich
+Derivation , , Russland:russischen::Europa:europäischen , bewegen:Bewegung::fühlen:Gefühl
+Derivation , , , bewegen:Bewegung::helfen:Hilfe
+Derivation , , , fühlen:Gefühl::denken:Gedanken
+Conjugation , gehen:geht::haben:hat , nehmen:nimmt::spielen:spielt , nehmen:nahm::spielen:spielte
+Conjugation , gehen:ging::haben:hatte , nehmen:genommen::zeigen:gezeigt , gehen:gegangen::spielen:gespielt
+Conjugation , zeigen:zeigt::machen:macht , gehen:gehe::haben:habe , ging:gingen::hatte:hatten
+Conjugation ,  ,  , hatte:gehabt::tat:getan
+Conjugation , , tun:tat::machen:machte , gehen:gingen::machen:machten
+Conjugation , , , gehen:gehe::machen:mache
+Conjugation , , , tun:tut::haben:hat
+Comparison/Declination , , groß:große::gut:gute , groß:großes::gut:gutes
+Comparison/Declination , , große:kleine::großen:kleinen , kleinen:kleiner::großen:großer
+Comparison/Declination , , große:großen::größte:größten , gut:guter::groß:großer
+Comparison/Declination , , gute:beste::große:größte , besser:bessere::größer:größere
+Comparison/Declination , , guten:besten::großen:größten ,
+Antonymy/Entailment , , gut:schlecht::große:kleine , Russland:Moskau::USA:Washington
+Antonymy/Entailment , , gut:schlecht::großen:kleinen , USA:Washington::England:London
+Antonymy/Entailment , ,  , England:London::Frankreich:Paris
+Antonymy/Entailment , , , Mann:Junge::Frau:Mädchen
+Antonymy/Entailment , , , Jungen:Männer::Mädchen:Frauen
+Antonymy/Entailment , , , gut:schlecht::großer:kleiner

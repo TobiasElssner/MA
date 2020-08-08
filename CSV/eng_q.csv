@@ -1,0 +1,36 @@
+Question Type, Vocabulary Size 500, Vocabulary Size 1000, Vocabulary Size 2000
+Gender , , , man:woman::boy:girl
+Gender , , , men:women::boys:girls
+Singular/Plural , day:days::year:years , , player:players::driver:drivers
+Singular/Plural , man:men::woman:women , , woman:women::girl:girls
+Singular/Plural , country:countries::year:years , , man:men::boy:boys
+Derivation , America:American::Europe:European , play:player::drive:driver , play:players::drive:drivers
+Derivation , ,  , move:movement::think:thought
+Derivation ,  , America:American::Russia:Russian , move:movement::help:helping
+Derivation , , , increase:increasingly::report:reportedly
+Derivation , , , move:movement::feel:feeling
+Derivation , , , develop:development::move:movement
+Derivation , , , move:movement::think:thought
+Conjugation , take:taking::go:going , take:takes::go:goes ,  go:gone::take:taken
+Conjugation , take:took::go:went , show:showed::play:played , show:showing::do:doing
+Conjugation , take:took::have:had , show:shows::go:goes , have:haven::do:don
+Conjugation , take:taken::have:had , , have:hasn::do:doesn
+Conjugation , go:going::have:having , , play:plays::do:does
+Conjugation , have:has::do:does , ,
+Conjugation , have:having::do:doing , ,
+Conjugation , do:doing::make:making , ,
+Conjugation , do:did::make:made , ,
+Conjugation , do:done::make:made , ,
+Distinction/Comparison , , high:higher::low:lower , bad:worst::high:highest
+Distinction/Comparison , , good:better::high:higher , good:well::large:largely
+Distinction/Comparison , , good:best::large:largest , better:best::higher:highest
+Distinction/Comparison , ,  , larger:largest::higher:highest
+Distinction/Comparison , , , bad:worse::good:better
+Distinction/Comparison , , , worse:worst::better:best
+Distinction/Comparison s, , , high:highly::large:largely
+Antonymy/Entailment , , high:low::large:small , America:Washington::Russia:Moscow
+Antonymy/Entailment , , good:bad::high:low , higher:lower::larger:smaller
+Antonymy/Entailment , , , England:London::France:Paris
+Antonymy/Entailment , , , America:Washington::England:London
+Antonymy/Entailment , , , boy:man::girl:woman
+Antonymy/Entailment , , , men:boy::women:girls
